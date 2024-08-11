@@ -2,4 +2,8 @@ python-dotenv==1.0.1
 google-generativeai==0.3.2
 streamlit==1.30.0
 fpdf
+<<<<<<< HEAD
 python-docx
+=======
+python-docx
+>>>>>>> f5742e959b82763b0cd28c41181a2cc9bc52a63b
