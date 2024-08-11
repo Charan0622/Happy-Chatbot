@@ -273,5 +273,5 @@ elif download_option == "Word Document":
     )
 
 # Display the GIF in the sidebar under the download button
-gif_path = "C:/Users/gchar/Scifor_Mini_Project_2/Chatbot.gif"
+gif_path = "Chatbot.gif"
 st.sidebar.image(gif_path, use_column_width=True)  # Adjust the width as needed
