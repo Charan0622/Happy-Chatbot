@@ -48,18 +48,4 @@ Ensure you have your Google API key stored securely. You can use environment var
 - **fonts**: Directory containing Telugu and Hindi font files.
 - **Chatbot.gif**: A demo GIF showcasing the chatbot in action.
 
-## 🌟 Contributing
-
-We welcome contributions! Please fork the repository and create a pull request with your changes.
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
-## ✨ Acknowledgements
-
-Special thanks to the Streamlit community and all the contributors who helped make this project possible. 🙏
-
----
-
 Feel free to open an issue or contact us if you have any questions or suggestions! Happy chatting! 😊
