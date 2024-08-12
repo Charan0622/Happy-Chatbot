@@ -1,15 +1,15 @@
-# 🎉 Happy-Chatbot 🐶
-
-Welcome to **Happy-Chatbot**, an interactive and engaging chatbot built with Streamlit, designed to make conversations more joyful! 🌟
+# 🎉 Happy-Chatbot 🐶💬
 
 ![Chatbot Demo](Chatbot.gif)
+
+Welcome to **Happy-Chatbot**, an interactive and engaging chatbot built with Streamlit, designed to make conversations more joyful! 🌟
 
 ## 🚀 Features
 
 - **Conversational Interface**: Chat with an AI that understands and responds in both Telugu and Hindi. 🗣️
-- **Multi-Language Support**: Utilizes beautiful fonts for Telugu and Hindi. 🇮🇳
+- **Multi-Language Support**: Utilizes beautiful fonts for Telugu and Hindi.💬
 - **Download Options**: Save chat history as PDF or Word document. 📄
-- **User Personalization**: Customize the chatbot with your name and gender. 🧑‍💼
+- **Personality Customization**: Select from friendly, professional, and humorous modes to tailor your chat experience. 🎭
 
 ## 🛠️ Installation
 
@@ -43,9 +43,7 @@ Ensure you have your Google API key stored securely. You can use environment var
 
 ## 📚 Project Structure
 
-- **main.py**: The main script to run the chatbot application.
-- **requirements.txt**: A list of Python dependencies required for the project.
-- **fonts**: Directory containing Telugu and Hindi font files.
+- **main.py**: The main script to run the chatbot application. 🧑🏻‍💻
+- **requirements.txt**: A list of Python dependencies required for the project. 📦
+- **fonts**: Directory containing Telugu and Hindi font files. 
 - **Chatbot.gif**: A demo GIF showcasing the chatbot in action.
-
-Feel free to open an issue or contact us if you have any questions or suggestions! Happy chatting! 😊
